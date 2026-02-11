@@ -152,7 +152,7 @@ Shows authentication failures, PAM sessions, and sudo activity
 
 SOC_LAB agent reporting as Active
 
-![Active Agent](screenshots/wazuh_active agents.png)
+![Active Agent](screenshots/wazuh_active%20agents.png)
 
 ---
 
