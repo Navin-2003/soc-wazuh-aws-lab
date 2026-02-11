@@ -108,11 +108,43 @@ This approach represents a minimal, correct, and production-style deployment.
 
 ## 📸 Screenshots (Evidence)
 
-### Wazuh Dashboard
+The following screenshots are included as proof of deployment and detections:
 
-Shows Wazuh modules and SOC_LAB agent active
+### Wazuh Dashboard Overview
 
-![Wazuh Dashboard](screenshots/wazuh_dashboard.png)
+Shows SOC modules, alert graphs, and MITRE ATT&CK mapping
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Wazuh Main Dashboard (Modules View)
+
+![Wazuh Dashboard](screenshots/wazhu_dashboard.png)
+
+---
+
+### Active Agent
+
+SOC_LAB agent reporting as Active
+
+![Active Agent](screenshots/wazuh_active_agents.png)
+
+---
+
+### SSH Authentication Failures (Brute Force Evidence)
+
+Multiple attempts to login using non-existent user (Rule ID 5710)
+
+![SSH Failures](screenshots/security.png)
+
+---
+
+### Security Events List
+
+Shows authentication failures, PAM sessions, and sudo activity
+
+![Security Events](screenshots/alerts.png)
 
 ---
 
