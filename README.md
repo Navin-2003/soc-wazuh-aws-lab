@@ -268,10 +268,5 @@ This project demonstrates hands-on SOC analyst skills in monitoring, detection, 
 
 ---
 
-## 📄 Resume Bullet
-
-Built cloud-based SOC home lab using Wazuh SIEM on AWS EC2 to detect SSH brute-force attempts, privilege escalation, and authentication activity.
-
----
 
 End of README
